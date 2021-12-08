@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+- thing1
+  - thing1.1
+  - thing1.2
+- thing2
+  - thing2.1
+- thing3
+  - thing3.1
+  - thing33.2
